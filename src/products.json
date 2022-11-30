@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Baby Wendlandii",
+    "description": "Syngonium",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.s.b.055-thumbnail.jpg&w=640&q=100",
+    "price": 5
+  },
+  {
+    "id": 2,
+    "name": "Baby Dragon Scale",
+    "description": "Alocasia",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.s.b.028-thumbnail_1.jpg&w=640&q=100",
+    "price": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Baby Zebrina",
+    "description": "Calathea",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.s.m.034-thumbnail.jpg&w=640&q=100",
+    "price": 3.5
+  },
+  {
+    "id": 4,
+    "name": "Baby Red Secret",
+    "description": "Alocasia",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl_s_b_032-thumbnail_3.jpg&w=640&q=100",
+    "price": 18
+  },
+  {
+    "id": 5,
+    "name": "Baby Selloum Gold",
+    "description": "Philodendron",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.s.bg.010-thumbnail.jpg&w=640&q=100",
+    "price": 6.9
+  },
+  {
+    "id": 6,
+    "name": "Squarrosa",
+    "description": "Aphelandra",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.m.135-thumbnail.jpg&w=640&q=100",
+    "price": 16
+  },
+  {
+    "id": 7,
+    "name": "Fabian",
+    "description": "Polyscias",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.l.038-thumbnail.jpg&w=640&q=100",
+    "price": 18
+  },
+  {
+    "id": 8,
+    "name": "Trifasciata Moonshine",
+    "description": "Sansevieria",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.m.134-thumbnail.jpg&w=640&q=100",
+    "price": 8.5
+  },
+  {
+    "id": 9,
+    "name": "Magnifico",
+    "description": "Castano",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.m.132-2.jpg&w=640&q=100",
+    "price": 10.5
+  },
+  {
+    "id": 10,
+    "name": "Mamei",
+    "description": "Philodendron",
+    "image": "https://plnts.com/_next/image?url=https%3A%2F%2Fwebshop.plnts.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Faa5d334f459227518b6c3cf7ea9d29ed%2Fp%2Fl%2Fpl.l.028-thumbnail-2.jpg&w=640&q=100",
+    "price": 40
+  }
+]

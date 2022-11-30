@@ -1,0 +1,112 @@
+[
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:15:31.529Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:20:26.937Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged out",
+    "time": "2022-09-03T10:20:57.024Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:21:05.608Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged out",
+    "time": "2022-09-03T10:21:08.234Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:21:17.096Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:27:47.500Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:10.716Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:13.129Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:13.704Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:14.166Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:15.366Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:16.015Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:16.445Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:16.795Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:31:17.134Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:33:06.476Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:39:06.817Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:45:57.508Z"
+  },
+  {
+    "username": "undefined",
+    "action": "logged out",
+    "time": "2022-09-03T10:46:23.790Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged in",
+    "time": "2022-09-03T10:47:13.639Z"
+  },
+  {
+    "username": "admin",
+    "action": "logged out",
+    "time": "2022-09-03T10:47:55.416Z"
+  }
+]
